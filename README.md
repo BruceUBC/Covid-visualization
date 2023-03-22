@@ -23,9 +23,15 @@ One of the primary motivations for tracking the daily cases and deaths of COVID-
 - How is the number of daily cases and deaths of China compared to the world?  
 
 <br>
+
 ## Usage
+You can find the dashboard [here](https://covid-visuliazation-bruce.onrender.com/)  
 
+The COVID Visualization app provides users with an interactive visualization of COVID-19 data for China. Upon opening the app, users will see two graphs: one showing the monthly number of new cases or deaths in China, and the other showing the trend of total COVID-19 vaccinations in China compared to the rest of the world.
 
+Users can interact with the app by selecting a date range from the dropdown menu and selecting a metric (total cases or total deaths) from another dropdown menu. The first graph will then update to show the monthly number of cases or deaths in China for the selected date range and metric. Users can use this graph to have a precise understanding of the trend of the pandemic in China.  
+
+The second graph will show the trend of total COVID-19 vaccinations in China compared to the rest of the world. Users can hover over the line to see the exact number of vaccinations for each day. The plot also allows users to zoom in or out of the graph to get a closer or wider view of the vaccination trend. Users can also pan through the graph to view different sections of the trend over time. 
 
 ## Contributing 
 
